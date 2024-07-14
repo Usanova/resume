@@ -1,0 +1,14 @@
+/Users/usanovaanastasia/Projects/resumr/AttachToProcess/bin/Debug/net8.0/AttachToProcess
+/Users/usanovaanastasia/Projects/resumr/AttachToProcess/bin/Debug/net8.0/AttachToProcess.deps.json
+/Users/usanovaanastasia/Projects/resumr/AttachToProcess/bin/Debug/net8.0/AttachToProcess.runtimeconfig.json
+/Users/usanovaanastasia/Projects/resumr/AttachToProcess/bin/Debug/net8.0/AttachToProcess.dll
+/Users/usanovaanastasia/Projects/resumr/AttachToProcess/bin/Debug/net8.0/AttachToProcess.pdb
+/Users/usanovaanastasia/Projects/resumr/AttachToProcess/obj/Debug/net8.0/AttachToProcess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usanovaanastasia/Projects/resumr/AttachToProcess/obj/Debug/net8.0/AttachToProcess.AssemblyInfoInputs.cache
+/Users/usanovaanastasia/Projects/resumr/AttachToProcess/obj/Debug/net8.0/AttachToProcess.AssemblyInfo.cs
+/Users/usanovaanastasia/Projects/resumr/AttachToProcess/obj/Debug/net8.0/AttachToProcess.csproj.CoreCompileInputs.cache
+/Users/usanovaanastasia/Projects/resumr/AttachToProcess/obj/Debug/net8.0/AttachToProcess.dll
+/Users/usanovaanastasia/Projects/resumr/AttachToProcess/obj/Debug/net8.0/refint/AttachToProcess.dll
+/Users/usanovaanastasia/Projects/resumr/AttachToProcess/obj/Debug/net8.0/AttachToProcess.pdb
+/Users/usanovaanastasia/Projects/resumr/AttachToProcess/obj/Debug/net8.0/AttachToProcess.genruntimeconfig.cache
+/Users/usanovaanastasia/Projects/resumr/AttachToProcess/obj/Debug/net8.0/ref/AttachToProcess.dll

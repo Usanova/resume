@@ -1,0 +1,15 @@
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/bin/Debug/net7.0/FileStreamApp
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/bin/Debug/net7.0/FileStreamApp.deps.json
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/bin/Debug/net7.0/FileStreamApp.runtimeconfig.json
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/bin/Debug/net7.0/FileStreamApp.dll
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/bin/Debug/net7.0/FileStreamApp.pdb
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/obj/Debug/net7.0/FileStreamApp.csproj.AssemblyReference.cache
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/obj/Debug/net7.0/FileStreamApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/obj/Debug/net7.0/FileStreamApp.AssemblyInfoInputs.cache
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/obj/Debug/net7.0/FileStreamApp.AssemblyInfo.cs
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/obj/Debug/net7.0/FileStreamApp.csproj.CoreCompileInputs.cache
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/obj/Debug/net7.0/FileStreamApp.dll
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/obj/Debug/net7.0/refint/FileStreamApp.dll
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/obj/Debug/net7.0/FileStreamApp.pdb
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/obj/Debug/net7.0/FileStreamApp.genruntimeconfig.cache
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/obj/Debug/net7.0/ref/FileStreamApp.dll

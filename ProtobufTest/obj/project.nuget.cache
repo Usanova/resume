@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XMvDZy96az3Kw+88iK1tt4CfBYr6vv5bmufXIlv2gf2mUxsU4eIJnh1DDulGDlZq+PKC7ZCqjfqZMfe4mVdSzg==",
+  "success": true,
+  "projectFilePath": "/Users/usanovaanastasia/Projects/resumr/ProtobufTest/ProtobufTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/usanovaanastasia/.nuget/packages/protobuf-net/3.2.26/protobuf-net.3.2.26.nupkg.sha512",
+    "/Users/usanovaanastasia/.nuget/packages/protobuf-net.core/3.2.26/protobuf-net.core.3.2.26.nupkg.sha512",
+    "/Users/usanovaanastasia/.nuget/packages/system.collections.immutable/7.0.0/system.collections.immutable.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

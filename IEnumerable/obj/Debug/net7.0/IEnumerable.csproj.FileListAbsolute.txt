@@ -1,0 +1,15 @@
+/Users/usanovaanastasia/Projects/resumr/IEnumerable/bin/Debug/net7.0/IEnumerable
+/Users/usanovaanastasia/Projects/resumr/IEnumerable/bin/Debug/net7.0/IEnumerable.deps.json
+/Users/usanovaanastasia/Projects/resumr/IEnumerable/bin/Debug/net7.0/IEnumerable.runtimeconfig.json
+/Users/usanovaanastasia/Projects/resumr/IEnumerable/bin/Debug/net7.0/IEnumerable.dll
+/Users/usanovaanastasia/Projects/resumr/IEnumerable/bin/Debug/net7.0/IEnumerable.pdb
+/Users/usanovaanastasia/Projects/resumr/IEnumerable/obj/Debug/net7.0/IEnumerable.csproj.AssemblyReference.cache
+/Users/usanovaanastasia/Projects/resumr/IEnumerable/obj/Debug/net7.0/IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usanovaanastasia/Projects/resumr/IEnumerable/obj/Debug/net7.0/IEnumerable.AssemblyInfoInputs.cache
+/Users/usanovaanastasia/Projects/resumr/IEnumerable/obj/Debug/net7.0/IEnumerable.AssemblyInfo.cs
+/Users/usanovaanastasia/Projects/resumr/IEnumerable/obj/Debug/net7.0/IEnumerable.csproj.CoreCompileInputs.cache
+/Users/usanovaanastasia/Projects/resumr/IEnumerable/obj/Debug/net7.0/IEnumerable.dll
+/Users/usanovaanastasia/Projects/resumr/IEnumerable/obj/Debug/net7.0/refint/IEnumerable.dll
+/Users/usanovaanastasia/Projects/resumr/IEnumerable/obj/Debug/net7.0/IEnumerable.pdb
+/Users/usanovaanastasia/Projects/resumr/IEnumerable/obj/Debug/net7.0/IEnumerable.genruntimeconfig.cache
+/Users/usanovaanastasia/Projects/resumr/IEnumerable/obj/Debug/net7.0/ref/IEnumerable.dll

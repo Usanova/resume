@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "us0UTSDRgY9Akro1GbfgZQy/84sbIJuqWNHGtumkWiLLR6UXk72QXnIgUqMv0OtrQnGoYpb4IRw7YRdesZMsVA==",
+  "success": true,
+  "projectFilePath": "/Users/usanovaanastasia/Projects/resumr/resumr/resumr.csproj",
+  "expectedPackageFiles": [
+    "/Users/usanovaanastasia/.nuget/packages/contoso.08.28.22.001.test/2.0.0/contoso.08.28.22.001.test.2.0.0.nupkg.sha512",
+    "/Users/usanovaanastasia/.nuget/packages/nlog/5.2.0/nlog.5.2.0.nupkg.sha512",
+    "/Users/usanovaanastasia/.nuget/packages/rabbitmq.client/6.5.0/rabbitmq.client.6.5.0.nupkg.sha512",
+    "/Users/usanovaanastasia/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/usanovaanastasia/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,64 @@
+﻿<Properties StartupConfiguration="{18879C38-D0FD-49F2-A3AC-468B35C7CCEA}|Default">
+  <MonoDevelop.Ide.ItemProperties.ReflectionTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/usanovaanastasia/Projects/resumr/ProtobufTest/Program.cs" relfile="ProtobufTest/Program.cs" line="23" column="1" />
+      <Breakpoint file="/Users/usanovaanastasia/Projects/resumr/resumr/Program.cs" relfile="resumr/Program.cs" line="148" column="1" />
+      <Breakpoint file="/Users/usanovaanastasia/Projects/resumr/FileStreamApp/TestPrograms/AssemblyLoadContextTest.cs" relfile="FileStreamApp/TestPrograms/AssemblyLoadContextTest.cs" line="24" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TestApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ResourcesTest FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ProtobufTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.resumr PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TestTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="resumr/Program.cs">
+    <Files>
+      <File FileName="resumr/Program.cs" Line="1" Column="1" />
+      <File FileName="resumr/ExpressionExercise.cs" />
+      <File FileName="ProtobufTest/Program.cs" />
+      <File FileName="IEnumerable/Program.cs" />
+      <File FileName="ResourcesTest/Program.cs" />
+      <File FileName="resumr/resumr.csproj" />
+      <File FileName="ReflectionTest/Program.cs" />
+      <File FileName="FileStreamApp/Program.cs" />
+      <File FileName="FileStreamApp/ITestProgram.cs" />
+      <File FileName="FileStreamApp/TestPrograms/FileStreamTest.cs" />
+      <File FileName="FileStreamApp/TestPrograms/XmlSerializationTest.cs" />
+      <File FileName="AspTest/AspTest.csproj" />
+      <File FileName="AspTest/Program.cs" />
+      <File FileName="FileStreamApp/TestPrograms/ThreadTest.cs" />
+      <File FileName="AspTest/WeatherForecast.cs" />
+      <File FileName="FileStreamApp/TestPrograms/HasheCodeCombine.cs" />
+      <File FileName="FileStreamApp/TestPrograms/LinqXmlTests/LinqXmlArrayTest.cs" />
+      <File FileName="TestTest/UnitTest1.cs" />
+      <File FileName="FileStreamApp/TestPrograms/LinqXmlTests/LinqXmlTest.cs" />
+      <File FileName="TestTest/Usings.cs" />
+      <File FileName="AspTest/appsettings.json" />
+      <File FileName="AspTest/Controllers/WeatherForecastController.cs" />
+      <File FileName="MyApp/Program.cs" />
+      <File FileName="FileStreamApp/TestPrograms/AssemblyLoadContextTest.cs" />
+      <File FileName="FileStreamApp/TestPrograms/DebugFeatures.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="resumr" expanded="True">
+            <Node name="AttachToProcess" expanded="True" selected="True" />
+            <Node name="resumr" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="resumr" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AspTest PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.IEnumerable PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

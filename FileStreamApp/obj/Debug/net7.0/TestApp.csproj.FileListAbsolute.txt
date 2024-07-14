@@ -1,0 +1,14 @@
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/bin/Debug/net7.0/TestApp
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/bin/Debug/net7.0/TestApp.deps.json
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/bin/Debug/net7.0/TestApp.runtimeconfig.json
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/bin/Debug/net7.0/TestApp.dll
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/bin/Debug/net7.0/TestApp.pdb
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/obj/Debug/net7.0/TestApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/obj/Debug/net7.0/TestApp.AssemblyInfoInputs.cache
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/obj/Debug/net7.0/TestApp.AssemblyInfo.cs
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/obj/Debug/net7.0/TestApp.csproj.CoreCompileInputs.cache
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/obj/Debug/net7.0/TestApp.dll
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/obj/Debug/net7.0/refint/TestApp.dll
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/obj/Debug/net7.0/TestApp.pdb
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/obj/Debug/net7.0/TestApp.genruntimeconfig.cache
+/Users/usanovaanastasia/Projects/resumr/FileStreamApp/obj/Debug/net7.0/ref/TestApp.dll

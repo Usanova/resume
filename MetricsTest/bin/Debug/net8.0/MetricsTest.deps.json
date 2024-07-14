@@ -1,0 +1,187 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MetricsTest/1.0.0": {
+        "dependencies": {
+          "App.Metrics": "4.4.0-preview.0.4",
+          "App.Metrics.Reporting.Console": "4.4.0-preview.0.10"
+        },
+        "runtime": {
+          "MetricsTest.dll": {}
+        }
+      },
+      "App.Metrics/4.4.0-preview.0.4": {
+        "dependencies": {
+          "App.Metrics.Core": "4.4.0-preview.0.4",
+          "App.Metrics.Formatters.Json": "4.4.0-preview.0.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/App.Metrics.dll": {
+            "assemblyVersion": "4.4.0.0",
+            "fileVersion": "4.4.0.0"
+          }
+        }
+      },
+      "App.Metrics.Abstractions/4.4.0-preview.0.4": {
+        "dependencies": {
+          "Microsoft.Bcl.AsyncInterfaces": "1.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/App.Metrics.Abstractions.dll": {
+            "assemblyVersion": "4.4.0.0",
+            "fileVersion": "4.4.0.0"
+          }
+        }
+      },
+      "App.Metrics.Concurrency/4.4.0-preview.0.4": {
+        "runtime": {
+          "lib/netstandard2.0/App.Metrics.Concurrency.dll": {
+            "assemblyVersion": "4.4.0.0",
+            "fileVersion": "4.4.0.0"
+          }
+        }
+      },
+      "App.Metrics.Core/4.4.0-preview.0.4": {
+        "dependencies": {
+          "App.Metrics.Abstractions": "4.4.0-preview.0.4",
+          "App.Metrics.Concurrency": "4.4.0-preview.0.4",
+          "App.Metrics.Formatters.Ascii": "4.4.0-preview.0.4",
+          "Microsoft.CSharp": "4.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/App.Metrics.Core.dll": {
+            "assemblyVersion": "4.4.0.0",
+            "fileVersion": "4.4.0.0"
+          }
+        }
+      },
+      "App.Metrics.Formatters.Ascii/4.4.0-preview.0.4": {
+        "dependencies": {
+          "App.Metrics.Abstractions": "4.4.0-preview.0.4"
+        },
+        "runtime": {
+          "lib/netstandard2.1/App.Metrics.Formatters.Ascii.dll": {
+            "assemblyVersion": "4.4.0.0",
+            "fileVersion": "4.4.0.0"
+          }
+        }
+      },
+      "App.Metrics.Formatters.Json/4.4.0-preview.0.4": {
+        "dependencies": {
+          "App.Metrics.Abstractions": "4.4.0-preview.0.4",
+          "System.Text.Json": "4.7.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/App.Metrics.Formatters.Json.dll": {
+            "assemblyVersion": "4.4.0.0",
+            "fileVersion": "4.4.0.0"
+          }
+        }
+      },
+      "App.Metrics.Reporting.Console/4.4.0-preview.0.10": {
+        "dependencies": {
+          "App.Metrics.Core": "4.4.0-preview.0.4",
+          "App.Metrics.Formatters.Ascii": "4.4.0-preview.0.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/App.Metrics.Reporting.Console.dll": {
+            "assemblyVersion": "4.4.0.0",
+            "fileVersion": "4.4.0.0"
+          }
+        }
+      },
+      "Microsoft.Bcl.AsyncInterfaces/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "4.700.19.46214"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.4.0": {},
+      "System.Text.Json/4.7.2": {}
+    }
+  },
+  "libraries": {
+    "MetricsTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "App.Metrics/4.4.0-preview.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R8WnNlL0knOdlpQr2l8fZF4lx8XU2hV3savRKzLS/wQi2lufjqX/DBGvn8+nnHoFipp1gDb92amSFVfKerLMNQ==",
+      "path": "app.metrics/4.4.0-preview.0.4",
+      "hashPath": "app.metrics.4.4.0-preview.0.4.nupkg.sha512"
+    },
+    "App.Metrics.Abstractions/4.4.0-preview.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C25nahIVEs16eeEZVi7knwD276SK+OANrKu4f7QeE1dxtxF95/GDJ4vJNtkOdh2DiAaTcZC8g/Hr2GX+WD7F1w==",
+      "path": "app.metrics.abstractions/4.4.0-preview.0.4",
+      "hashPath": "app.metrics.abstractions.4.4.0-preview.0.4.nupkg.sha512"
+    },
+    "App.Metrics.Concurrency/4.4.0-preview.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fAxQm9OQ57HVsn51m9tQy5fx9805gHZ5cAP5GBp5jp160BgM+ufQEWtWuQXbnIGK7DRfRO+xRwLCW3fk3vY9Cw==",
+      "path": "app.metrics.concurrency/4.4.0-preview.0.4",
+      "hashPath": "app.metrics.concurrency.4.4.0-preview.0.4.nupkg.sha512"
+    },
+    "App.Metrics.Core/4.4.0-preview.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-A0X/49aqtxvZ9qp2i8Yj/1nERhdMLtRB54uIIdmR/ZIrb0ob2h3Nsr2qsdDoUHsntDFh7HV8QLmkDELMFaK2BA==",
+      "path": "app.metrics.core/4.4.0-preview.0.4",
+      "hashPath": "app.metrics.core.4.4.0-preview.0.4.nupkg.sha512"
+    },
+    "App.Metrics.Formatters.Ascii/4.4.0-preview.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yFMgjYg82NlBuN/rOCcT+qELN8AWCpfyXL3oAjUuzZnB/a/q0siiV0GleU5sXs2t4USMhtQQY5QfTgIYWQi1fQ==",
+      "path": "app.metrics.formatters.ascii/4.4.0-preview.0.4",
+      "hashPath": "app.metrics.formatters.ascii.4.4.0-preview.0.4.nupkg.sha512"
+    },
+    "App.Metrics.Formatters.Json/4.4.0-preview.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CyViHtPvi6rONE5N8KQCMTR9Fcqub5K1e3NaNH+QMzTrl39DblQT2N74kmhPkKvb6BD8RN30Ldm/KPzM3XUk8g==",
+      "path": "app.metrics.formatters.json/4.4.0-preview.0.4",
+      "hashPath": "app.metrics.formatters.json.4.4.0-preview.0.4.nupkg.sha512"
+    },
+    "App.Metrics.Reporting.Console/4.4.0-preview.0.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QTh9DWJF2vvXloWojhMbX0lTrhWwEzwWYw/nd52JHy1vGfNfNFNoC+6y8nqZVltBL/XAikP0ZcersZcREhjk0A==",
+      "path": "app.metrics.reporting.console/4.4.0-preview.0.10",
+      "hashPath": "app.metrics.reporting.console.4.4.0-preview.0.10.nupkg.sha512"
+    },
+    "Microsoft.Bcl.AsyncInterfaces/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-K63Y4hORbBcKLWH5wnKgzyn7TOfYzevIEwIedQHBIkmkEBA9SCqgvom+XTuE+fAFGvINGkhFItaZ2dvMGdT5iw==",
+      "path": "microsoft.bcl.asyncinterfaces/1.0.0",
+      "hashPath": "microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vvVR/B08YVghQ4jHEloxqw2ZWzEGE1AOA5E0DioUM3ujbXz6FD3AfB/0Jl2ohJPd0nXYGwmPe1En6HTsSriq1A==",
+      "path": "microsoft.csharp/4.4.0",
+      "hashPath": "microsoft.csharp.4.4.0.nupkg.sha512"
+    },
+    "System.Text.Json/4.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TcMd95wcrubm9nHvJEQs70rC0H/8omiSGGpU4FQ/ZA1URIqD4pjmFJh2Mfv1yH1eHgJDWTi2hMDXwTET+zOOyg==",
+      "path": "system.text.json/4.7.2",
+      "hashPath": "system.text.json.4.7.2.nupkg.sha512"
+    }
+  }
+}

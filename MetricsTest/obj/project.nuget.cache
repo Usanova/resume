@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "at0hHcDra63VIZvn5AF9oXCS88171rWCTgu037fA/zRWrBCuC+iZZP636za4L49sLRAKtUbR0adHQlB2KknyJQ==",
+  "success": true,
+  "projectFilePath": "/Users/usanovaanastasia/Projects/resumr/MetricsTest/MetricsTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/usanovaanastasia/.nuget/packages/app.metrics/4.4.0-preview.0.4/app.metrics.4.4.0-preview.0.4.nupkg.sha512",
+    "/Users/usanovaanastasia/.nuget/packages/app.metrics.abstractions/4.4.0-preview.0.4/app.metrics.abstractions.4.4.0-preview.0.4.nupkg.sha512",
+    "/Users/usanovaanastasia/.nuget/packages/app.metrics.concurrency/4.4.0-preview.0.4/app.metrics.concurrency.4.4.0-preview.0.4.nupkg.sha512",
+    "/Users/usanovaanastasia/.nuget/packages/app.metrics.core/4.4.0-preview.0.4/app.metrics.core.4.4.0-preview.0.4.nupkg.sha512",
+    "/Users/usanovaanastasia/.nuget/packages/app.metrics.formatters.ascii/4.4.0-preview.0.4/app.metrics.formatters.ascii.4.4.0-preview.0.4.nupkg.sha512",
+    "/Users/usanovaanastasia/.nuget/packages/app.metrics.formatters.json/4.4.0-preview.0.4/app.metrics.formatters.json.4.4.0-preview.0.4.nupkg.sha512",
+    "/Users/usanovaanastasia/.nuget/packages/app.metrics.reporting.console/4.4.0-preview.0.10/app.metrics.reporting.console.4.4.0-preview.0.10.nupkg.sha512",
+    "/Users/usanovaanastasia/.nuget/packages/microsoft.bcl.asyncinterfaces/1.0.0/microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "/Users/usanovaanastasia/.nuget/packages/microsoft.csharp/4.4.0/microsoft.csharp.4.4.0.nupkg.sha512",
+    "/Users/usanovaanastasia/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

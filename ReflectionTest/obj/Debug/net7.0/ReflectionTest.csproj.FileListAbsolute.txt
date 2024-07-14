@@ -1,0 +1,15 @@
+/Users/usanovaanastasia/Projects/resumr/ReflectionTest/bin/Debug/net7.0/ReflectionTest
+/Users/usanovaanastasia/Projects/resumr/ReflectionTest/bin/Debug/net7.0/ReflectionTest.deps.json
+/Users/usanovaanastasia/Projects/resumr/ReflectionTest/bin/Debug/net7.0/ReflectionTest.runtimeconfig.json
+/Users/usanovaanastasia/Projects/resumr/ReflectionTest/bin/Debug/net7.0/ReflectionTest.dll
+/Users/usanovaanastasia/Projects/resumr/ReflectionTest/bin/Debug/net7.0/ReflectionTest.pdb
+/Users/usanovaanastasia/Projects/resumr/ReflectionTest/obj/Debug/net7.0/ReflectionTest.csproj.AssemblyReference.cache
+/Users/usanovaanastasia/Projects/resumr/ReflectionTest/obj/Debug/net7.0/ReflectionTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usanovaanastasia/Projects/resumr/ReflectionTest/obj/Debug/net7.0/ReflectionTest.AssemblyInfoInputs.cache
+/Users/usanovaanastasia/Projects/resumr/ReflectionTest/obj/Debug/net7.0/ReflectionTest.AssemblyInfo.cs
+/Users/usanovaanastasia/Projects/resumr/ReflectionTest/obj/Debug/net7.0/ReflectionTest.csproj.CoreCompileInputs.cache
+/Users/usanovaanastasia/Projects/resumr/ReflectionTest/obj/Debug/net7.0/ReflectionTest.dll
+/Users/usanovaanastasia/Projects/resumr/ReflectionTest/obj/Debug/net7.0/refint/ReflectionTest.dll
+/Users/usanovaanastasia/Projects/resumr/ReflectionTest/obj/Debug/net7.0/ReflectionTest.pdb
+/Users/usanovaanastasia/Projects/resumr/ReflectionTest/obj/Debug/net7.0/ReflectionTest.genruntimeconfig.cache
+/Users/usanovaanastasia/Projects/resumr/ReflectionTest/obj/Debug/net7.0/ref/ReflectionTest.dll

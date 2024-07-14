@@ -1,0 +1,14 @@
+/Users/usanovaanastasia/Projects/resumr/MyApp/bin/Release/net8.0/MyApp
+/Users/usanovaanastasia/Projects/resumr/MyApp/bin/Release/net8.0/MyApp.deps.json
+/Users/usanovaanastasia/Projects/resumr/MyApp/bin/Release/net8.0/MyApp.runtimeconfig.json
+/Users/usanovaanastasia/Projects/resumr/MyApp/bin/Release/net8.0/MyApp.dll
+/Users/usanovaanastasia/Projects/resumr/MyApp/bin/Release/net8.0/MyApp.pdb
+/Users/usanovaanastasia/Projects/resumr/MyApp/obj/Release/net8.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usanovaanastasia/Projects/resumr/MyApp/obj/Release/net8.0/MyApp.AssemblyInfoInputs.cache
+/Users/usanovaanastasia/Projects/resumr/MyApp/obj/Release/net8.0/MyApp.AssemblyInfo.cs
+/Users/usanovaanastasia/Projects/resumr/MyApp/obj/Release/net8.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/usanovaanastasia/Projects/resumr/MyApp/obj/Release/net8.0/MyApp.dll
+/Users/usanovaanastasia/Projects/resumr/MyApp/obj/Release/net8.0/refint/MyApp.dll
+/Users/usanovaanastasia/Projects/resumr/MyApp/obj/Release/net8.0/MyApp.pdb
+/Users/usanovaanastasia/Projects/resumr/MyApp/obj/Release/net8.0/MyApp.genruntimeconfig.cache
+/Users/usanovaanastasia/Projects/resumr/MyApp/obj/Release/net8.0/ref/MyApp.dll
